@@ -33,7 +33,7 @@ This project implements an audio signal processing pipeline in Python. It genera
 ## Repository Structure
 
 ```
-├── signals_project.py      # Main Python script implementing all parts
+├── signals project.py      # Main Python script implementing all parts
 └── README.md               # Project documentation (this file)
 ```
 
